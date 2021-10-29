@@ -4,7 +4,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="logo github" class="img-fluid">
     </div>
     <h1 class="m-4">Bienvenue sur mon Portfolio GitHub</h1>
-    <p class="h1">Yvan Brai</p>
+    <p class="h1">Yvan Brai.</p>
     <div class="container m-4 text-center">
       <p>Etudiant à l'école #Webstart, en developpement web et application mobile depuis 2019.</p>
       <p>Voici le Portfolio de mes projet GitHub, réaliser en Vue JS3, Vue Router, Vue X, et l'API REST de GitHub</p>
